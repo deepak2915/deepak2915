@@ -1,5 +1,7 @@
 <h1 align="center">HI👋, I'M DEEPAK</h1>
-<h3 align="center">A passionate frontend developer and UI Devlopement.</h3>
+<h3 align="center">A Passionate Frontend Developer and UI Devlopement.</h3><br>
+<img align="right" alt-"Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 - 🔭 I’m currently working on **EXPENSE-TRACKER**
 
