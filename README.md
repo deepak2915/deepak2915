@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **EXPENSE-TRACKER**
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **REACT.JS**
 
 - 💬 Ask me about **react.js , javascript**
 
